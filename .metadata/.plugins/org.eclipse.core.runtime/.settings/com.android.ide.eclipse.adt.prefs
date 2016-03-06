@@ -1,0 +1,6 @@
+com.android.ide.eclipse.adt.autoPickTarget=false
+com.android.ide.eclipse.adt.fixLegacyEditors=1
+com.android.ide.eclipse.adt.palette=SMALL_PREVIEW
+com.android.ide.eclipse.adt.sdk=C\:\\Users\\Remi\\Desktop\\adt-bundle-windows-x86_64-20130522\\sdk
+com.android.ide.eclipse.adt.xmlEditor=true
+eclipse.preferences.version=1

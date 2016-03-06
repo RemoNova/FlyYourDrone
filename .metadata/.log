@@ -1,0 +1,1587 @@
+!SESSION 2015-05-19 11:59:47.365 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_20
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+This is a continuation of log file C:\Users\Remi\Desktop\DRON\.metadata\.bak_0.log
+Created Time: 2015-05-19 12:13:45.510
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.510
+!MESSAGE palette: Couldn't resolve resource @id/Phone
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.510
+!MESSAGE palette: Couldn't resolve resource @id/PostalAddress
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.510
+!MESSAGE palette: Couldn't resolve resource @id/PostalAddress
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.510
+!MESSAGE palette: Couldn't resolve resource @id/MultilineText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.526
+!MESSAGE palette: Couldn't resolve resource @id/MultilineText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.526
+!MESSAGE palette: Couldn't resolve resource @id/Date
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.526
+!MESSAGE palette: Couldn't resolve resource @id/Date
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.526
+!MESSAGE palette: Couldn't resolve resource @id/Time
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.526
+!MESSAGE palette: Couldn't resolve resource @id/Time
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.541
+!MESSAGE palette: Couldn't resolve resource @id/Email
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.541
+!MESSAGE palette: Couldn't resolve resource @id/Email
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.541
+!MESSAGE palette: Couldn't resolve resource @id/Number
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.541
+!MESSAGE palette: Couldn't resolve resource @id/Number
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.557
+!MESSAGE palette: Couldn't resolve resource @id/NumberSigned
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.557
+!MESSAGE palette: Couldn't resolve resource @id/NumberSigned
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.557
+!MESSAGE palette: Couldn't resolve resource @id/NumberDecimal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.557
+!MESSAGE palette: Couldn't resolve resource @id/NumberDecimal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.572
+!MESSAGE palette: Couldn't resolve resource @id/LargeText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.572
+!MESSAGE palette: Couldn't resolve resource @id/LargeText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.572
+!MESSAGE palette: Couldn't resolve resource @id/MediumText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.572
+!MESSAGE palette: Couldn't resolve resource @id/MediumText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.572
+!MESSAGE palette: Couldn't resolve resource @id/SmallText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.572
+!MESSAGE palette: Couldn't resolve resource @id/SmallText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.588
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_MultiAutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.604
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_MultiAutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.619
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarNormal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.713
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarHorizontal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:45.962
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarLarge
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.040
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarSmall
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.072
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_QuickContactBadge
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.134
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.150
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.306
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RatingBar
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.399
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SeekBar
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.524
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ListView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.555
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ExpandableListView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.618
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Spinner
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.618
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.618
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.618
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ToggleButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.711
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ToggleButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.711
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ZoomButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.758
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ZoomControls
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:46.976
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CalendarView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:47.101
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioGroup
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:47.834
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Switch
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:47.850
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Switch
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:47.959
+!MESSAGE palette: Couldn't resolve resource @id/linearLayout1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:48.053
+!MESSAGE palette: Couldn't resolve resource @id/Tab1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:48.053
+!MESSAGE palette: Couldn't resolve resource @id/Tab2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:48.053
+!MESSAGE palette: Couldn't resolve resource @id/Tab3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:48.334
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TabWidget
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:13:48.334
+!MESSAGE palette: Couldn't resolve resource @id/Tab1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.097
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_AnalogClock
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.097
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_AutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.097
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_AutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.113
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.113
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.113
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SmallButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.113
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SmallButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.113
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckBox
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.128
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckBox
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.128
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckedTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.128
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckedTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.128
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_DigitalClock
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.128
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_DigitalClock
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.128
+!MESSAGE palette: Couldn't resolve resource @id/PlainText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.144
+!MESSAGE palette: Couldn't resolve resource @id/PlainText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.144
+!MESSAGE palette: Couldn't resolve resource @id/Password
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.144
+!MESSAGE palette: Couldn't resolve resource @id/Password
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.144
+!MESSAGE palette: Couldn't resolve resource @id/PasswordNumeric
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.144
+!MESSAGE palette: Couldn't resolve resource @id/PasswordNumeric
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.160
+!MESSAGE palette: Couldn't resolve resource @id/PersonName
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.160
+!MESSAGE palette: Couldn't resolve resource @id/PersonName
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.160
+!MESSAGE palette: Couldn't resolve resource @id/Phone
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.160
+!MESSAGE palette: Couldn't resolve resource @id/Phone
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.160
+!MESSAGE palette: Couldn't resolve resource @id/PostalAddress
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.175
+!MESSAGE palette: Couldn't resolve resource @id/PostalAddress
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.175
+!MESSAGE palette: Couldn't resolve resource @id/MultilineText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.175
+!MESSAGE palette: Couldn't resolve resource @id/MultilineText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.175
+!MESSAGE palette: Couldn't resolve resource @id/Date
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.175
+!MESSAGE palette: Couldn't resolve resource @id/Date
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.175
+!MESSAGE palette: Couldn't resolve resource @id/Time
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.191
+!MESSAGE palette: Couldn't resolve resource @id/Time
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.191
+!MESSAGE palette: Couldn't resolve resource @id/Email
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.191
+!MESSAGE palette: Couldn't resolve resource @id/Email
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.191
+!MESSAGE palette: Couldn't resolve resource @id/Number
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.206
+!MESSAGE palette: Couldn't resolve resource @id/Number
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.206
+!MESSAGE palette: Couldn't resolve resource @id/NumberSigned
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.206
+!MESSAGE palette: Couldn't resolve resource @id/NumberSigned
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.206
+!MESSAGE palette: Couldn't resolve resource @id/NumberDecimal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.206
+!MESSAGE palette: Couldn't resolve resource @id/NumberDecimal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.206
+!MESSAGE palette: Couldn't resolve resource @id/LargeText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.222
+!MESSAGE palette: Couldn't resolve resource @id/LargeText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.222
+!MESSAGE palette: Couldn't resolve resource @id/MediumText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.222
+!MESSAGE palette: Couldn't resolve resource @id/MediumText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.222
+!MESSAGE palette: Couldn't resolve resource @id/SmallText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.222
+!MESSAGE palette: Couldn't resolve resource @id/SmallText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.222
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_MultiAutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.222
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_MultiAutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.238
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarNormal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.238
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarHorizontal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.238
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarLarge
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.238
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarSmall
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.238
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_QuickContactBadge
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.238
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.253
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.253
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RatingBar
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.253
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SeekBar
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.269
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ListView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.269
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ExpandableListView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.269
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Spinner
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.269
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.269
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.284
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ToggleButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.284
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ToggleButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.284
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ZoomButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.284
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ZoomControls
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.284
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CalendarView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.316
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioGroup
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.628
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Switch
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.628
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Switch
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.659
+!MESSAGE palette: Couldn't resolve resource @id/linearLayout1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.659
+!MESSAGE palette: Couldn't resolve resource @id/Tab1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.659
+!MESSAGE palette: Couldn't resolve resource @id/Tab2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.659
+!MESSAGE palette: Couldn't resolve resource @id/Tab3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.690
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TabWidget
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:09.690
+!MESSAGE palette: Couldn't resolve resource @id/Tab1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.828
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_AnalogClock
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.828
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_AutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.828
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_AutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.828
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.828
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.844
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SmallButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.844
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SmallButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.844
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckBox
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.844
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckBox
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.844
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckedTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.844
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckedTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.844
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_DigitalClock
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.844
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_DigitalClock
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.844
+!MESSAGE palette: Couldn't resolve resource @id/PlainText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.860
+!MESSAGE palette: Couldn't resolve resource @id/PlainText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.860
+!MESSAGE palette: Couldn't resolve resource @id/Password
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.860
+!MESSAGE palette: Couldn't resolve resource @id/Password
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.860
+!MESSAGE palette: Couldn't resolve resource @id/PasswordNumeric
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.860
+!MESSAGE palette: Couldn't resolve resource @id/PasswordNumeric
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.860
+!MESSAGE palette: Couldn't resolve resource @id/PersonName
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.875
+!MESSAGE palette: Couldn't resolve resource @id/PersonName
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.875
+!MESSAGE palette: Couldn't resolve resource @id/Phone
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.875
+!MESSAGE palette: Couldn't resolve resource @id/Phone
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.875
+!MESSAGE palette: Couldn't resolve resource @id/PostalAddress
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.875
+!MESSAGE palette: Couldn't resolve resource @id/PostalAddress
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.875
+!MESSAGE palette: Couldn't resolve resource @id/MultilineText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.891
+!MESSAGE palette: Couldn't resolve resource @id/MultilineText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.891
+!MESSAGE palette: Couldn't resolve resource @id/Date
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.891
+!MESSAGE palette: Couldn't resolve resource @id/Date
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.891
+!MESSAGE palette: Couldn't resolve resource @id/Time
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.891
+!MESSAGE palette: Couldn't resolve resource @id/Time
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.891
+!MESSAGE palette: Couldn't resolve resource @id/Email
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.891
+!MESSAGE palette: Couldn't resolve resource @id/Email
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.891
+!MESSAGE palette: Couldn't resolve resource @id/Number
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.906
+!MESSAGE palette: Couldn't resolve resource @id/Number
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.906
+!MESSAGE palette: Couldn't resolve resource @id/NumberSigned
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.906
+!MESSAGE palette: Couldn't resolve resource @id/NumberSigned
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.906
+!MESSAGE palette: Couldn't resolve resource @id/NumberDecimal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.906
+!MESSAGE palette: Couldn't resolve resource @id/NumberDecimal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.906
+!MESSAGE palette: Couldn't resolve resource @id/LargeText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.922
+!MESSAGE palette: Couldn't resolve resource @id/LargeText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.922
+!MESSAGE palette: Couldn't resolve resource @id/MediumText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.922
+!MESSAGE palette: Couldn't resolve resource @id/MediumText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.922
+!MESSAGE palette: Couldn't resolve resource @id/SmallText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.922
+!MESSAGE palette: Couldn't resolve resource @id/SmallText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.922
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_MultiAutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.922
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_MultiAutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.922
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarNormal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.922
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarHorizontal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.938
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarLarge
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.938
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarSmall
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.938
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_QuickContactBadge
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.938
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.938
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.938
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RatingBar
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.953
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SeekBar
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.953
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ListView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.953
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ExpandableListView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.953
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Spinner
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.953
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.953
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.953
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ToggleButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.969
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ToggleButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.969
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ZoomButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.969
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ZoomControls
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.969
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CalendarView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:20.984
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioGroup
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:21.281
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Switch
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:21.281
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Switch
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:21.281
+!MESSAGE palette: Couldn't resolve resource @id/linearLayout1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:21.297
+!MESSAGE palette: Couldn't resolve resource @id/Tab1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:21.297
+!MESSAGE palette: Couldn't resolve resource @id/Tab2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:21.297
+!MESSAGE palette: Couldn't resolve resource @id/Tab3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:21.312
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TabWidget
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:14:21.312
+!MESSAGE palette: Couldn't resolve resource @id/Tab1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.499
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_AnalogClock
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.499
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_AutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.530
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_AutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.561
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.593
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.593
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SmallButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.593
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SmallButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.593
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckBox
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.608
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckBox
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.686
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckedTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.686
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckedTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.702
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_DigitalClock
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.702
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_DigitalClock
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.702
+!MESSAGE palette: Couldn't resolve resource @id/PlainText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.702
+!MESSAGE palette: Couldn't resolve resource @id/PlainText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.702
+!MESSAGE palette: Couldn't resolve resource @id/Password
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.717
+!MESSAGE palette: Couldn't resolve resource @id/Password
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.717
+!MESSAGE palette: Couldn't resolve resource @id/PasswordNumeric
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.733
+!MESSAGE palette: Couldn't resolve resource @id/PasswordNumeric
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.733
+!MESSAGE palette: Couldn't resolve resource @id/PersonName
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.733
+!MESSAGE palette: Couldn't resolve resource @id/PersonName
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.733
+!MESSAGE palette: Couldn't resolve resource @id/Phone
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.733
+!MESSAGE palette: Couldn't resolve resource @id/Phone
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.733
+!MESSAGE palette: Couldn't resolve resource @id/PostalAddress
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.733
+!MESSAGE palette: Couldn't resolve resource @id/PostalAddress
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.733
+!MESSAGE palette: Couldn't resolve resource @id/MultilineText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.749
+!MESSAGE palette: Couldn't resolve resource @id/MultilineText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.749
+!MESSAGE palette: Couldn't resolve resource @id/Date
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.749
+!MESSAGE palette: Couldn't resolve resource @id/Date
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.749
+!MESSAGE palette: Couldn't resolve resource @id/Time
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.749
+!MESSAGE palette: Couldn't resolve resource @id/Time
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.749
+!MESSAGE palette: Couldn't resolve resource @id/Email
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.764
+!MESSAGE palette: Couldn't resolve resource @id/Email
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.764
+!MESSAGE palette: Couldn't resolve resource @id/Number
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.764
+!MESSAGE palette: Couldn't resolve resource @id/Number
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.764
+!MESSAGE palette: Couldn't resolve resource @id/NumberSigned
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.764
+!MESSAGE palette: Couldn't resolve resource @id/NumberSigned
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.764
+!MESSAGE palette: Couldn't resolve resource @id/NumberDecimal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.780
+!MESSAGE palette: Couldn't resolve resource @id/NumberDecimal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.780
+!MESSAGE palette: Couldn't resolve resource @id/LargeText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.780
+!MESSAGE palette: Couldn't resolve resource @id/LargeText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.780
+!MESSAGE palette: Couldn't resolve resource @id/MediumText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.780
+!MESSAGE palette: Couldn't resolve resource @id/MediumText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.780
+!MESSAGE palette: Couldn't resolve resource @id/SmallText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.780
+!MESSAGE palette: Couldn't resolve resource @id/SmallText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.780
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_MultiAutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.780
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_MultiAutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.780
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarNormal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.795
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarHorizontal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.827
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarLarge
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.827
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarSmall
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.827
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_QuickContactBadge
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.889
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.889
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:10.998
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RatingBar
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.123
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SeekBar
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.154
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ListView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.170
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ExpandableListView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.232
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Spinner
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.232
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.248
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.248
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ToggleButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.388
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ToggleButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.388
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ZoomButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.388
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ZoomControls
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.404
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CalendarView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.419
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioGroup
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.716
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Switch
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.731
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Switch
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.809
+!MESSAGE palette: Couldn't resolve resource @id/linearLayout1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.825
+!MESSAGE palette: Couldn't resolve resource @id/Tab1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.825
+!MESSAGE palette: Couldn't resolve resource @id/Tab2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.825
+!MESSAGE palette: Couldn't resolve resource @id/Tab3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.856
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TabWidget
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:11.856
+!MESSAGE palette: Couldn't resolve resource @id/Tab1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.167
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_AnalogClock
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.183
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_AutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.261
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_AutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.386
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.511
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.511
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SmallButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.620
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SmallButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.635
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckBox
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.651
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckBox
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.776
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckedTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.776
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckedTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.776
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_DigitalClock
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.776
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_DigitalClock
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.791
+!MESSAGE palette: Couldn't resolve resource @id/PlainText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.791
+!MESSAGE palette: Couldn't resolve resource @id/PlainText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.791
+!MESSAGE palette: Couldn't resolve resource @id/Password
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.807
+!MESSAGE palette: Couldn't resolve resource @id/Password
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.807
+!MESSAGE palette: Couldn't resolve resource @id/PasswordNumeric
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.823
+!MESSAGE palette: Couldn't resolve resource @id/PasswordNumeric
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.823
+!MESSAGE palette: Couldn't resolve resource @id/PersonName
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.823
+!MESSAGE palette: Couldn't resolve resource @id/PersonName
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.823
+!MESSAGE palette: Couldn't resolve resource @id/Phone
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.823
+!MESSAGE palette: Couldn't resolve resource @id/Phone
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.823
+!MESSAGE palette: Couldn't resolve resource @id/PostalAddress
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.838
+!MESSAGE palette: Couldn't resolve resource @id/PostalAddress
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.838
+!MESSAGE palette: Couldn't resolve resource @id/MultilineText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.838
+!MESSAGE palette: Couldn't resolve resource @id/MultilineText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.838
+!MESSAGE palette: Couldn't resolve resource @id/Date
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.838
+!MESSAGE palette: Couldn't resolve resource @id/Date
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.854
+!MESSAGE palette: Couldn't resolve resource @id/Time
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.854
+!MESSAGE palette: Couldn't resolve resource @id/Time
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.854
+!MESSAGE palette: Couldn't resolve resource @id/Email
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.854
+!MESSAGE palette: Couldn't resolve resource @id/Email
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.854
+!MESSAGE palette: Couldn't resolve resource @id/Number
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.854
+!MESSAGE palette: Couldn't resolve resource @id/Number
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.854
+!MESSAGE palette: Couldn't resolve resource @id/NumberSigned
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.854
+!MESSAGE palette: Couldn't resolve resource @id/NumberSigned
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.854
+!MESSAGE palette: Couldn't resolve resource @id/NumberDecimal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.869
+!MESSAGE palette: Couldn't resolve resource @id/NumberDecimal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.869
+!MESSAGE palette: Couldn't resolve resource @id/LargeText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.869
+!MESSAGE palette: Couldn't resolve resource @id/LargeText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.869
+!MESSAGE palette: Couldn't resolve resource @id/MediumText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.869
+!MESSAGE palette: Couldn't resolve resource @id/MediumText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.869
+!MESSAGE palette: Couldn't resolve resource @id/SmallText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.869
+!MESSAGE palette: Couldn't resolve resource @id/SmallText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.869
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_MultiAutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.869
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_MultiAutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.869
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarNormal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.901
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarHorizontal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.932
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarLarge
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.947
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarSmall
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.979
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_QuickContactBadge
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.994
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:32.994
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.135
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RatingBar
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.322
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SeekBar
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.384
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ListView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.431
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ExpandableListView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.493
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Spinner
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.571
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.571
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.587
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ToggleButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.618
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ToggleButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.618
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ZoomButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.618
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ZoomControls
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.618
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CalendarView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.634
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioGroup
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-05-19 12:15:33.977
+!MESSAGE palette: Failed to find style 'switchStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.977
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Switch
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-05-19 12:15:33.977
+!MESSAGE palette: Failed to find style 'switchStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-05-19 12:15:33.993
+!MESSAGE palette: Failed to find style 'switchStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-05-19 12:15:33.993
+!MESSAGE palette: Failed to find style 'switchStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.993
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Switch
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-05-19 12:15:33.993
+!MESSAGE palette: Failed to find style 'switchStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-05-19 12:15:33.993
+!MESSAGE palette: Failed to find style 'switchStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.993
+!MESSAGE Failed to render set of icons for Switch
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-05-19 12:15:33.993
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at android.widget.Switch.jumpDrawablesToCurrentState(Switch.java:651)
+	at android.view.ViewGroup.jumpDrawablesToCurrentState(ViewGroup.java:5030)
+	at android.view.ViewGroup.jumpDrawablesToCurrentState(ViewGroup.java:5030)
+	at android.widget.FrameLayout.jumpDrawablesToCurrentState(FrameLayout.java:172)
+	at android.view.View.onAttachedToWindow(View.java:9537)
+	at android.view.View.dispatchAttachedToWindow(View.java:9784)
+	at android.view.ViewGroup.dispatchAttachedToWindow(ViewGroup.java:2198)
+	at android.view.AttachInfo_Accessor.setAttachInfo(AttachInfo_Accessor.java:37)
+	at com.android.layoutlib.bridge.impl.RenderSessionImpl.inflate(RenderSessionImpl.java:329)
+	at com.android.layoutlib.bridge.Bridge.createSession(Bridge.java:324)
+	at com.android.ide.common.rendering.LayoutLibrary.createSession(LayoutLibrary.java:332)
+	at com.android.ide.eclipse.adt.internal.editors.layout.gle2.RenderService.createRenderSession(RenderService.java:517)
+	at com.android.ide.eclipse.adt.internal.editors.layout.gle2.PreviewIconFactory.render(PreviewIconFactory.java:273)
+	at com.android.ide.eclipse.adt.internal.editors.layout.gle2.PreviewIconFactory.initColors(PreviewIconFactory.java:595)
+	at com.android.ide.eclipse.adt.internal.editors.layout.gle2.PreviewIconFactory.getBackgroundColor(PreviewIconFactory.java:570)
+	at com.android.ide.eclipse.adt.internal.editors.layout.gle2.PaletteControl.reloadPalette(PaletteControl.java:437)
+	at com.android.ide.eclipse.adt.internal.editors.layout.gle2.GraphicalEditorPart.reloadPalette(GraphicalEditorPart.java:1327)
+	at com.android.ide.eclipse.adt.internal.editors.layout.gle2.GraphicalEditorPart.changed(GraphicalEditorPart.java:771)
+	at com.android.ide.eclipse.adt.internal.editors.layout.configuration.ConfigurationChooser.onThemeChange(ConfigurationChooser.java:1552)
+	at com.android.ide.eclipse.adt.internal.editors.layout.configuration.SelectThemeAction.run(SelectThemeAction.java:48)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1070)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:782)
+	at org.eclipse.jface.action.ActionContributionItem$9.handleEvent(ActionContributionItem.java:1293)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1438)
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:33.993
+!MESSAGE palette: Couldn't resolve resource @id/linearLayout1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:34.024
+!MESSAGE palette: Couldn't resolve resource @id/Tab1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:34.024
+!MESSAGE palette: Couldn't resolve resource @id/Tab2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:34.024
+!MESSAGE palette: Couldn't resolve resource @id/Tab3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:34.086
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TabWidget
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:34.086
+!MESSAGE palette: Couldn't resolve resource @id/Tab1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.847
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_AnalogClock
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.847
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_AutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.847
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_AutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.847
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.847
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Button
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.862
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SmallButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.862
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SmallButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.862
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckBox
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.862
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckBox
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.862
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckedTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.862
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CheckedTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.862
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_DigitalClock
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.862
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_DigitalClock
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.862
+!MESSAGE palette: Couldn't resolve resource @id/PlainText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.878
+!MESSAGE palette: Couldn't resolve resource @id/PlainText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.878
+!MESSAGE palette: Couldn't resolve resource @id/Password
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.878
+!MESSAGE palette: Couldn't resolve resource @id/Password
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.878
+!MESSAGE palette: Couldn't resolve resource @id/PasswordNumeric
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.878
+!MESSAGE palette: Couldn't resolve resource @id/PasswordNumeric
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.878
+!MESSAGE palette: Couldn't resolve resource @id/PersonName
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.878
+!MESSAGE palette: Couldn't resolve resource @id/PersonName
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.878
+!MESSAGE palette: Couldn't resolve resource @id/Phone
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.893
+!MESSAGE palette: Couldn't resolve resource @id/Phone
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.893
+!MESSAGE palette: Couldn't resolve resource @id/PostalAddress
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.893
+!MESSAGE palette: Couldn't resolve resource @id/PostalAddress
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.893
+!MESSAGE palette: Couldn't resolve resource @id/MultilineText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.893
+!MESSAGE palette: Couldn't resolve resource @id/MultilineText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.893
+!MESSAGE palette: Couldn't resolve resource @id/Date
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.893
+!MESSAGE palette: Couldn't resolve resource @id/Date
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.893
+!MESSAGE palette: Couldn't resolve resource @id/Time
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.909
+!MESSAGE palette: Couldn't resolve resource @id/Time
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.909
+!MESSAGE palette: Couldn't resolve resource @id/Email
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.909
+!MESSAGE palette: Couldn't resolve resource @id/Email
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.909
+!MESSAGE palette: Couldn't resolve resource @id/Number
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.909
+!MESSAGE palette: Couldn't resolve resource @id/Number
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.909
+!MESSAGE palette: Couldn't resolve resource @id/NumberSigned
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.909
+!MESSAGE palette: Couldn't resolve resource @id/NumberSigned
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.909
+!MESSAGE palette: Couldn't resolve resource @id/NumberDecimal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.925
+!MESSAGE palette: Couldn't resolve resource @id/NumberDecimal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.925
+!MESSAGE palette: Couldn't resolve resource @id/LargeText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.925
+!MESSAGE palette: Couldn't resolve resource @id/LargeText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.925
+!MESSAGE palette: Couldn't resolve resource @id/MediumText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.925
+!MESSAGE palette: Couldn't resolve resource @id/MediumText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.925
+!MESSAGE palette: Couldn't resolve resource @id/SmallText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.925
+!MESSAGE palette: Couldn't resolve resource @id/SmallText
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.925
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_MultiAutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.940
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_MultiAutoCompleteTextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.940
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarNormal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.940
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarHorizontal
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.940
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarLarge
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.940
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ProgressBarSmall
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.940
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_QuickContactBadge
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.956
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.956
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.956
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RatingBar
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.956
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_SeekBar
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.971
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ListView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.987
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ExpandableListView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:56.987
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Spinner
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.003
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.003
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TextView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.003
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ToggleButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.018
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ToggleButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.018
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ZoomButton
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.018
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_ZoomControls
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.018
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_CalendarView
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.034
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_RadioGroup
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-05-19 12:15:57.377
+!MESSAGE palette: Failed to find style 'switchStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.377
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Switch
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-05-19 12:15:57.377
+!MESSAGE palette: Failed to find style 'switchStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-05-19 12:15:57.377
+!MESSAGE palette: Failed to find style 'switchStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-05-19 12:15:57.393
+!MESSAGE palette: Failed to find style 'switchStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.393
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_Switch
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-05-19 12:15:57.393
+!MESSAGE palette: Failed to find style 'switchStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-05-19 12:15:57.393
+!MESSAGE palette: Failed to find style 'switchStyle' in current theme
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.393
+!MESSAGE Failed to render set of icons for Switch
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2015-05-19 12:15:57.393
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at android.widget.Switch.jumpDrawablesToCurrentState(Switch.java:651)
+	at android.view.ViewGroup.jumpDrawablesToCurrentState(ViewGroup.java:5030)
+	at android.view.ViewGroup.jumpDrawablesToCurrentState(ViewGroup.java:5030)
+	at android.widget.FrameLayout.jumpDrawablesToCurrentState(FrameLayout.java:172)
+	at android.view.View.onAttachedToWindow(View.java:9537)
+	at android.view.View.dispatchAttachedToWindow(View.java:9784)
+	at android.view.ViewGroup.dispatchAttachedToWindow(ViewGroup.java:2198)
+	at android.view.AttachInfo_Accessor.setAttachInfo(AttachInfo_Accessor.java:37)
+	at com.android.layoutlib.bridge.impl.RenderSessionImpl.inflate(RenderSessionImpl.java:329)
+	at com.android.layoutlib.bridge.Bridge.createSession(Bridge.java:324)
+	at com.android.ide.common.rendering.LayoutLibrary.createSession(LayoutLibrary.java:332)
+	at com.android.ide.eclipse.adt.internal.editors.layout.gle2.RenderService.createRenderSession(RenderService.java:517)
+	at com.android.ide.eclipse.adt.internal.editors.layout.gle2.PreviewIconFactory.render(PreviewIconFactory.java:273)
+	at com.android.ide.eclipse.adt.internal.editors.layout.gle2.PreviewIconFactory.initColors(PreviewIconFactory.java:595)
+	at com.android.ide.eclipse.adt.internal.editors.layout.gle2.PreviewIconFactory.getBackgroundColor(PreviewIconFactory.java:570)
+	at com.android.ide.eclipse.adt.internal.editors.layout.gle2.PaletteControl.reloadPalette(PaletteControl.java:437)
+	at com.android.ide.eclipse.adt.internal.editors.layout.gle2.GraphicalEditorPart.reloadPalette(GraphicalEditorPart.java:1327)
+	at com.android.ide.eclipse.adt.internal.editors.layout.gle2.GraphicalEditorPart.changed(GraphicalEditorPart.java:771)
+	at com.android.ide.eclipse.adt.internal.editors.layout.configuration.ConfigurationChooser.onThemeChange(ConfigurationChooser.java:1552)
+	at com.android.ide.eclipse.adt.internal.editors.layout.configuration.SelectThemeAction.run(SelectThemeAction.java:48)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:519)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:595)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:511)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:420)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1085)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1070)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:782)
+	at org.eclipse.jface.action.ActionContributionItem$9.handleEvent(ActionContributionItem.java:1293)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4353)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4172)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3761)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1438)
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.393
+!MESSAGE palette: Couldn't resolve resource @id/linearLayout1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.393
+!MESSAGE palette: Couldn't resolve resource @id/Tab1
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.393
+!MESSAGE palette: Couldn't resolve resource @id/Tab2
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.393
+!MESSAGE palette: Couldn't resolve resource @id/Tab3
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.424
+!MESSAGE palette: Couldn't resolve resource @id/android_widget_TabWidget
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2015-05-19 12:15:57.424
+!MESSAGE palette: Couldn't resolve resource @id/Tab1
+!SESSION 2015-05-20 16:21:22.728 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_20
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.m2e.logback.configuration 2 0 2015-05-20 16:21:27.393
+!MESSAGE Exception while setting up logging:org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+!STACK 0
+java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+	at org.eclipse.m2e.logback.configuration.LogHelper.logJavaProperties(LogHelper.java:26)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.loadConfiguration(LogPlugin.java:189)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.configureLogback(LogPlugin.java:144)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.access$2(LogPlugin.java:107)
+	at org.eclipse.m2e.logback.configuration.LogPlugin$1.run(LogPlugin.java:62)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-20 16:21:43.431
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-20 16:21:43.431
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Remi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-05-27 10:44:28.320 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_20
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.m2e.logback.configuration 2 0 2015-05-27 10:44:36.510
+!MESSAGE Exception while setting up logging:org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+!STACK 0
+java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+	at org.eclipse.m2e.logback.configuration.LogHelper.logJavaProperties(LogHelper.java:26)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.loadConfiguration(LogPlugin.java:189)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.configureLogback(LogPlugin.java:144)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.access$2(LogPlugin.java:107)
+	at org.eclipse.m2e.logback.configuration.LogPlugin$1.run(LogPlugin.java:62)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-27 10:44:55.950
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-27 10:44:55.950
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Remi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-05-27 21:31:41.273 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_20
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.m2e.logback.configuration 2 0 2015-05-27 21:31:51.990
+!MESSAGE Exception while setting up logging:org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+!STACK 0
+java.lang.ClassCastException: org.eclipse.osgi.internal.framework.EquinoxConfiguration$1 cannot be cast to java.lang.String
+	at org.eclipse.m2e.logback.configuration.LogHelper.logJavaProperties(LogHelper.java:26)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.loadConfiguration(LogPlugin.java:189)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.configureLogback(LogPlugin.java:144)
+	at org.eclipse.m2e.logback.configuration.LogPlugin.access$2(LogPlugin.java:107)
+	at org.eclipse.m2e.logback.configuration.LogPlugin$1.run(LogPlugin.java:62)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-27 21:32:15.813
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-05-27 21:32:15.813
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Remi'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.objectaid.uml @ com.objectaid.uml.util.extend.ExecutableExtensionManager.get(107) 4 0 2015-05-27 21:32:20.915
+!MESSAGE duplicate id 'GIF' for com.objectaid.uml.renderFormats
+!STACK 0
+com.objectaid.uml.UMLException: duplicate id 'GIF' for com.objectaid.uml.renderFormats
+	at com.objectaid.uml.util.extend.ExecutableExtensionManager.get(ExecutableExtensionManager.java:107)
+	at com.objectaid.uml.model.persistence.PersistedDiagram.getAutomaticImage(PersistedDiagram.java:186)
+	at com.objectaid.uml.model.definition.DiagramDefinition.updateModel(DiagramDefinition.java:43)
+	at com.objectaid.uml.cls.model.definition.ClassDiagramDefinition.updateModel(ClassDiagramDefinition.java:42)
+	at com.objectaid.uml.cls.model.definition.ClassDiagramDefinition.updateModel(ClassDiagramDefinition.java:22)
+	at com.objectaid.uml.model.definition.ModelDefinition.create(ModelDefinition.java:185)
+	at com.objectaid.uml.model.persistence.UnmarshalDiagramVisitor.doVisit(UnmarshalDiagramVisitor.java:77)
+	at com.objectaid.uml.model.persistence.UnmarshalDiagramVisitor.doVisit(UnmarshalDiagramVisitor.java:26)
+	at com.objectaid.uml.util.collection.GenericVisitor.visit(GenericVisitor.java:40)
+	at com.objectaid.uml.model.persistence.PersistedDiagram.accept(PersistedDiagram.java:40)
+	at com.objectaid.uml.model.diagram.DiagramFactory.unmarshal(DiagramFactory.java:242)
+	at com.objectaid.uml.model.DiagramHandle.unmarshalModel(DiagramHandle.java:211)
+	at com.objectaid.uml.model.DiagramHandle.unmarshal(DiagramHandle.java:160)
+	at com.objectaid.uml.model.manage.DiagramManager.add(DiagramManager.java:104)
+	at com.objectaid.uml.model.manage.StartupJob$2.run(StartupJob.java:83)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)

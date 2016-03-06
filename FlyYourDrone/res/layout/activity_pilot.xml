@@ -1,0 +1,159 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/start"
+    android:gravity="top"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".PilotActivity" >
+
+    <Button
+        android:id="@+id/flyBackButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignLeft="@+id/flyForwardButton"
+        android:layout_below="@+id/flyLeftButton"
+        android:background="@drawable/arrowdown"
+         />
+
+    <Button
+        android:id="@+id/flyRightButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignBaseline="@+id/flyLeftButton"
+        android:layout_alignBottom="@+id/flyLeftButton"
+        android:layout_toRightOf="@+id/flyForwardButton"
+        android:background="@drawable/arrowright"
+         />
+
+    <Button
+        android:id="@+id/takeoffLandButton"
+        android:layout_width="300dp"
+        android:layout_height="53dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/takeoffbutton_pl" />
+
+    <Button
+        android:id="@+id/flyDownButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignLeft="@+id/flyUpButton"
+        android:layout_below="@+id/spinRightButton"
+        android:background="@drawable/arrowdown"
+         />
+
+    <Button
+        android:id="@+id/spinLeftButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_above="@+id/flyDownButton"
+        android:layout_toLeftOf="@+id/flyDownButton"
+        android:background="@drawable/arrowleft"
+         />
+
+    <Button
+        android:id="@+id/flyUpButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignTop="@+id/flyForwardButton"
+        android:layout_toLeftOf="@+id/spinRightButton"
+        android:background="@drawable/arrowup"
+         />
+
+    <Button
+        android:id="@+id/flyForwardButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="35dp"
+        android:layout_toRightOf="@+id/flyLeftButton"
+        android:background="@drawable/arrowup"
+         />
+
+    <ImageView
+        android:id="@+id/imageViewDashboard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/flyBackButton"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/batback" /> 
+
+    <TextView
+        android:id="@+id/textViewbattery"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_above="@+id/textViewAltitiude"
+        android:layout_alignLeft="@+id/imageViewDashboard"
+        android:layout_alignRight="@+id/imageViewDashboard"
+        android:layout_alignTop="@+id/imageViewDashboard"
+        android:layout_marginLeft="5dp"
+        android:text="poziom baterii:"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/textViewAltitiude"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/flyBackButton"
+        android:layout_alignBottom="@+id/flyBackButton"
+        android:layout_alignLeft="@+id/textViewbattery"
+        android:text="@string/altitiude_name"
+        android:textColor="@android:color/white"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/buttonEmegrency"
+        android:layout_width="270dp"
+        android:layout_height="30dp"
+        android:paddingTop="0dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/emergencybutton_pl" />
+
+    <Button
+        android:id="@+id/flyLeftButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_above="@+id/flyDownButton"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/arrowleft" />
+
+    <Button
+        android:id="@+id/spinRightButton"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_below="@+id/flyUpButton"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/arrowright" />
+
+    <ImageView
+        android:id="@+id/imageViewLeftInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/flyRightButton"
+        android:layout_alignLeft="@+id/flyForwardButton"
+        android:layout_alignTop="@+id/flyLeftButton"
+        android:layout_toLeftOf="@+id/flyRightButton"
+        android:src="@drawable/left_panel_info_pl" />
+
+    <ImageView
+        android:id="@+id/imageViewBattery"
+        android:layout_width="50dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+         />
+
+    <ImageView
+        android:id="@+id/imageViewRightInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/flyUpButton"
+        android:layout_alignTop="@+id/spinLeftButton"
+        android:src="@drawable/right_panel_info_pl" />
+
+</RelativeLayout>

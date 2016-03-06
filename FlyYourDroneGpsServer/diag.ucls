@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="com.nowacki.fly.GPSserver.Server.CommunicationThread" 
+    project="FlyYourDroneGpsServer" file="/FlyYourDroneGpsServer/src/com/nowacki/fly/GPSserver/Server.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="173" x="-306" y="375"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.nowacki.fly.GPSserver.Server.UpdateConsoleThread" 
+    project="FlyYourDroneGpsServer" file="/FlyYourDroneGpsServer/src/com/nowacki/fly/GPSserver/Server.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="169" x="-93" y="375"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.nowacki.fly.GPSserver.Server" project="FlyYourDroneGpsServer" 
+    file="/FlyYourDroneGpsServer/src/com/nowacki/fly/GPSserver/Server.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="208" x="21" y="-124"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.nowacki.fly.GPSserver.Server.SendLocationThread" 
+    project="FlyYourDroneGpsServer" file="/FlyYourDroneGpsServer/src/com/nowacki/fly/GPSserver/Server.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="211" x="116" y="375"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.nowacki.fly.GPSserver.Server.ServerThread" project="FlyYourDroneGpsServer" 
+    file="/FlyYourDroneGpsServer/src/com/nowacki/fly/GPSserver/Server.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="144" x="367" y="375"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="6">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <nesting id="7">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <nesting id="8">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <nesting id="9">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

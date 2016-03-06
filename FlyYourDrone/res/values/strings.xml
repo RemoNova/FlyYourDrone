@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fly Your Drone</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="altitiude_name">wysokość:</string>
+    <string name="about_author">Autor: Remigiusz Nowacki</string>
+    <string name="blank">null</string>
+    <string name="about_head">Aplikacja pozwala na sterowanie quadkopterem Parrot ARDrone 2.0 bez podglądu wideo oraz wyświetlanie na mapie tras jego lotu.</string>
+    <string name="about_lib1">Korzysta z biblioteki YADrone z:\n www.github.com/MahatmaX/YADrone</string>
+    <string name="about_lib2">i biblioteki SQLite Asset Helper z:\nwww.github.com/jgilfelt/android-sqlite-asset-helper</string>
+    <string name="options_verSpeed">Prędkość pozioma:</string>
+    <string name="options_maxAlt">Maksymalna wysokość:</string>
+    <string name="options_rotSpeed">Prędkość obrotu:</string>
+    <string name="options_eulerAng">Maksymalny kąt wychylenia:</string>
+    <string name="options_ledAnim">Animacja led:</string>
+    <string name="title_activity_flights_">Flights</string>
+	<string name="flightID_list_row">Numer lotu</string>
+	<string name="flightDate_list_row">Data</string>
+	<string name="flightDateAndTime_list_row">Data i godzina lotu</string>
+	<string name="flightHeight_list_row">Maksymalna wysokość</string>
+	<string name="flightHour_list_row">Godzina</string>
+	 
+</resources>
