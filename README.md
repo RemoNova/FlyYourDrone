@@ -9,4 +9,4 @@ This is FlyYourDrone v1.0 app written in Eclipse IDE which allow to control Parr
 
 In future there is plan to refactor whole project to Android Studio IDE.
 
-Prject contains also FlyYourDroneGPServer app which allow to send GPS position of Android device placed on drone to store quadcopter route in FlyYourDrone app.
+Project contains also FlyYourDroneGPServer app which allow to send GPS position of Android device placed on drone to store quadcopter route in FlyYourDrone app.
